@@ -1,0 +1,13 @@
+app:
+  name: 'telegram-bot'
+  version: '1.0.0'
+
+bot:
+  token: '5999644495:AAFQw3_B4rLKNGf6wmBmTBg7v5uUKpDISTw'
+
+database:
+  host: 'postgres'
+  port: 5432
+  database: 'vk-intern-bot'
+  user: 'admin'
+  password: 'vkbotpass'
